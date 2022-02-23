@@ -1,0 +1,4 @@
+{
+	"infile": "./input/test.nii.gz",
+        "maskfile": "out_bet.nii.gz"
+}
